@@ -1,6 +1,6 @@
 
 h1 {
-    color: #E0115F; 
+    color: #830cc4; 
     text-align: center;
 }
 
@@ -9,7 +9,7 @@ h1::after {
     display: block;
     width: 300px;
     height: 5px;
-    background-color:#E0115F; 
+    background-color:#830cc4; 
     margin: 10px auto;
 }
 
@@ -22,7 +22,7 @@ table {
 
 
 th {
-    background-color: #E0115F;
+    background-color: #830cc4;
     color: #FFFFFF;
     padding: 15px;
     font-weight;
@@ -32,11 +32,11 @@ th {
 
 
 tr:nth-child(odd) {
-    background-color:#FFc1d5; 
+    background-color:#e5b3Fe; 
 }
 
 tr:nth-child(even) {
-    background-color: #FFe4ec; 
+    background-color: #F3d9FF; 
 }
 
 
